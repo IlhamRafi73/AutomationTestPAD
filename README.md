@@ -17,4 +17,4 @@ Manual & API Testing :
 https://docs.google.com/spreadsheets/d/1G9NEz56KCkahM4XVaRIKC0RJ1vfGKai70Grd8M4nBrA/edit?usp=sharing
 
 Bug Report :
-https://docs.google.com/spreadsheets/d/1Nvz-PBs7Vas-F1UQ2FvgHSsuhsU1T_sM/edit?usp=sharing&ouid=114753147833331933930&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1Nvz-PBs7Vas-F1UQ2FvgHSsuhsU1T_sM/edit?usp=sharing
